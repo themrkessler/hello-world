@@ -1,2 +1,3 @@
 # hello-world
-This is a test activity following the Github Hello World training guide.
+
+After a bachelor's degree and several years in the professional world, I've finally decided to explore data science. Here's to my start with Github!
